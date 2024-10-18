@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m Frank Asamoah, currently working on various projects to improve my developer capabilities<br>👯 I’m looking to collaborate on all web development projects<br>💬 Ask me about MERN stack<br>⚡ Fun fact: Football pundit 😅
+👋 Hey, I’m Frank Asamoah — a passionate developer exploring the art of coding one project at a time. Currently enhancing my skills through hands-on projects in web development and beyond.
+
+🚀 I’m always open to collaborating on exciting web development and Java projects. Whether it’s the MERN stack, Spring Boot, or anything in between, let’s build something awesome together.
+
+💬 Want to chat? I’m always up for a good conversation about tech, code, or even football trivia!
+
+⚡ Fun fact: When I'm not coding, I'm either analyzing football tactics or playing the game on console - FIFA.
 
 
 ## 🌐 Socials:
