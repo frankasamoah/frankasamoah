@@ -7,7 +7,7 @@
 
 💬 Want to chat? I’m always up for a good conversation about tech, code, or even football trivia!
 
-⚡ Fun fact: When I'm not coding, I'm either analyzing football tactics or playing the game on console - FIFA.
+⚡ Fun fact: When I'm not immersed in programming or work, you’ll likely find me analyzing football tactics or enjoying a game of FIFA on my console. I also love taking walks in the woods to unwind and recharge.
 
 
 ## 🌐 Socials:
