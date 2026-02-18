@@ -56,8 +56,9 @@ Right now, I’m building **Phoenix Suite**, a regime‑aware, multi‑engine op
 
 ### **Frontend & Design**
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-4ED1C5?style=flat-square&logo=chakraui&logoColor=white)
+![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-111111?style=flat-square&logo=radixui&logoColor=white)
 
 ---
 
